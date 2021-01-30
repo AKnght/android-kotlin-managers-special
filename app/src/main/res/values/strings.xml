@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Manager\'s Special</string>
+    <string name="about_product_mock_up">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore dolore aua. Ut enim ad minim veniam, quis nostrud exercitationulco laboris nisi ut aliquip ex ea commodo consequatuisaute.  Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore dolore aua. Ut enim ad minim veniam, quis nostrud exercitationulco laboris nisi ut aliquip ex ea commodo consequatuisaute.</string>
+
+    <string name="dollar_sign_format">$%s</string>
+
+
+
+    <string name="shared_view_product_image">productImage</string>
+    <string name="shared_view_product_price">productPrice</string>
+    <string name="shared_view_product_original_price">productOriginalPrice</string>
+    <string name="shared_view_product_name">productName</string>
+
+</resources>
